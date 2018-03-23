@@ -28,6 +28,9 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
+Avatars loaded with @crookedneighbor's habitica-avatars module
+
 Readme adapted from PurpleBooth's template
+
 Thanks to the Habitica devs and admins for a wonderful site!
 
